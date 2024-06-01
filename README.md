@@ -22,7 +22,7 @@ Movix is a Netflix clone that provides users with a seamless experience to brows
 
 1. **Clone the repository**
     ```bash
-    git clone [https://github.com/zishanAl/cineflix.git](https://github.com/zishanAl/cineflix.git)
+    git clone https://github.com/zishanAl/cineflix.git
     ```
 2. **Navigate to the project directory**
     ```bash
