@@ -13,7 +13,7 @@ Movix is a Netflix clone that provides users with a seamless experience to brows
 
 ## Technologies Used
 
-- **Frontend**: React, SCSS
+- **Frontend**: React, Redux, SCSS
 - **Build Tool**: Vite
 - **Icons**: React Icons
 - **API**: The Movie Database (TMDb) API
